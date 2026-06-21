@@ -5,6 +5,8 @@ A Deep Learning Regression project that predicts a student's probability of admi
 The model is built using TensorFlow/Keras and deployed using Streamlit.
 
 ---
+## 🚀 Deployed Link
+https://gre-admission-ann-qmfvxfzkjhrxrnblfwmmwt.streamlit.app/
 
 ## 🚀 Project Overview
 
